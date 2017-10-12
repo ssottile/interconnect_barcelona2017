@@ -92,7 +92,7 @@ use vagrant box to have the following preinstalled
 
 To use vagrant, please install:
 
-* Virtualbox - https://www.virtualbox.org/wiki/Downloads
+* Virtualbox - https://www.virtualbox.org/wiki/Downloads (It has been tested with 5.1.28)
   ```console
   brew cask install virtualbox
   ```
